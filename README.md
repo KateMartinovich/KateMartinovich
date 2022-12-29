@@ -16,7 +16,7 @@
 
 ### Test artifacts
 [Theory of testing](https://github.com/KateMartinovich/Theory-of-testing)
-[Test Design Techniques](https://github.com/KateMartinovich/Test-Design-Techniques)
+![Test Design Techniques](https://github.com/KateMartinovich/Test-Design-Techniques)
 [Test Documentation](https://github.com/KateMartinovich/Test-Documentation)
 [Web app testing](https://github.com/KateMartinovich/Web-app-testing)
 [Intercepting traffic via Charles Proxy and Fiddler](https://github.com/KateMartinovich/Intercepting-traffic-via-Charles-Proxy-and-Fiddler)
