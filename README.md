@@ -15,14 +15,14 @@
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
 ### Test artifacts
-[Theory of testing](https://github.com/KateMartinovich/Theory-of-testing)
-![Test Design Techniques](https://github.com/KateMartinovich/Test-Design-Techniques)
-[Test Documentation](https://github.com/KateMartinovich/Test-Documentation)
-[Web app testing](https://github.com/KateMartinovich/Web-app-testing)
-[Intercepting traffic via Charles Proxy and Fiddler](https://github.com/KateMartinovich/Intercepting-traffic-via-Charles-Proxy-and-Fiddler)
-[API testing with Postman](https://github.com/KateMartinovich/API-testing-with-Postman)
-[Database testing](https://github.com/KateMartinovich/Database-testing)
-[Mobile app testing](https://github.com/KateMartinovich/Mobile-app-testing)
+1. [Theory of testing](https://github.com/KateMartinovich/Theory-of-testing)
+2. [Test Design Techniques](https://github.com/KateMartinovich/Test-Design-Techniques)
+3. [Test Documentation](https://github.com/KateMartinovich/Test-Documentation)
+4. [Web app testing](https://github.com/KateMartinovich/Web-app-testing)
+5. [Intercepting traffic via Charles Proxy and Fiddler](https://github.com/KateMartinovich/Intercepting-traffic-via-Charles-Proxy-and-Fiddler)
+6. [API testing with Postman](https://github.com/KateMartinovich/API-testing-with-Postman)
+7. [Database testing](https://github.com/KateMartinovich/Database-testing)
+8. [Mobile app testing](https://github.com/KateMartinovich/Mobile-app-testing)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/katemartinovich/)
