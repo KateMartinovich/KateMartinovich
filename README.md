@@ -1,3 +1,4 @@
+![Header](https://media.licdn.com/dms/image/D4D16AQEcJ66XVugD-w/profile-displaybackgroundimage-shrink_350_1400/0/1673628910950?e=1678924800&v=beta&t=ME7eX30SMghTDecnRTBdO_xxXS2HeZHG64XGSO4TdEk)
 ## My name is Kate
 ## I'm a QA Engineer
 
