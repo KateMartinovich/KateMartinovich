@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![Header](https://media.licdn.com/dms/image/D4D16AQEcJ66XVugD-w/profile-displaybackgroundimage-shrink_350_1400/0/1673628910950?e=1678924800&v=beta&t=ME7eX30SMghTDecnRTBdO_xxXS2HeZHG64XGSO4TdEk)
 
-## [Link to my CV 👈🏼](https://drive.google.com/file/d/1eNqy6dPmHHa1CwgYtrNPhrFe8NXoFmNQ/view?usp=sharing)
+## [Link to my CV 👈🏼](https://drive.google.com/file/d/1fXVg5kElIpTkwh0QEtWuy185fvJnaEqS/view?usp=sharing)
 
 
 ## My name is Kate
